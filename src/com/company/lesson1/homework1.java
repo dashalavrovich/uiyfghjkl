@@ -6,6 +6,6 @@ public class homework1 {
     }
 
     public static void task1() {
-        System.out.println("jngfkdr");
+        System.out.println("jngfkdr!");
     }
 }
